@@ -1,0 +1,15 @@
+C:\Users\morva\Desktop\komp. prog\könyvtár\könyvtár\bin\Debug\könyvtár.exe.config
+C:\Users\morva\Desktop\komp. prog\könyvtár\könyvtár\bin\Debug\könyvtár.exe
+C:\Users\morva\Desktop\komp. prog\könyvtár\könyvtár\bin\Debug\könyvtár.pdb
+C:\Users\morva\Desktop\komp. prog\könyvtár\könyvtár\obj\Debug\könyvtár.csprojAssemblyReference.cache
+C:\Users\morva\Desktop\komp. prog\könyvtár\könyvtár\obj\Debug\MainWindow.g.cs
+C:\Users\morva\Desktop\komp. prog\könyvtár\könyvtár\obj\Debug\App.g.cs
+C:\Users\morva\Desktop\komp. prog\könyvtár\könyvtár\obj\Debug\könyvtár_MarkupCompile.cache
+C:\Users\morva\Desktop\komp. prog\könyvtár\könyvtár\obj\Debug\könyvtár_MarkupCompile.lref
+C:\Users\morva\Desktop\komp. prog\könyvtár\könyvtár\obj\Debug\MainWindow.baml
+C:\Users\morva\Desktop\komp. prog\könyvtár\könyvtár\obj\Debug\könyvtár.g.resources
+C:\Users\morva\Desktop\komp. prog\könyvtár\könyvtár\obj\Debug\könyvtár.Properties.Resources.resources
+C:\Users\morva\Desktop\komp. prog\könyvtár\könyvtár\obj\Debug\könyvtár.csproj.GenerateResource.cache
+C:\Users\morva\Desktop\komp. prog\könyvtár\könyvtár\obj\Debug\könyvtár.csproj.CoreCompileInputs.cache
+C:\Users\morva\Desktop\komp. prog\könyvtár\könyvtár\obj\Debug\könyvtár.exe
+C:\Users\morva\Desktop\komp. prog\könyvtár\könyvtár\obj\Debug\könyvtár.pdb
